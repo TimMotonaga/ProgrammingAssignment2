@@ -1,5 +1,5 @@
 ##makeCacheMatrix() takes a nonsingular matrix as input and produces a list
-##as output. If this list is plugged into cacheSolve() then we are given the
+##as output. If this list is plugged into cacheSolve(), then we are given the
 ##inverse of the original matrix. If the inverse of the matrix was previously
 ##computed by cacheSolve(), then it reads the inverse from the cache rather 
 ##than computing it.
